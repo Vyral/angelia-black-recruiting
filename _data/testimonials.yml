@@ -1,5 +1,30 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: I would recommend Angelia to anyone in the real estate business who needs accountability and wants to grow their business. After 12 years in the business, Angelia has encouraged me and motivated me more than anyone I have worked with.
+    name: Laura Maultsby
+
+  - quote: Angelia is a great mentor, motivator, and friend. She pushes me to think outside the box and challenges me to step outside of my comfort zone. When I met Angelia I wasn’t sure if I was going to join a team or go out on my own. Angelia showed me that I have the tools, skills and now confidence to be a top agent and am rocking real estate. My business has doubled since working with her.
+    name: Kris K.
+
+  - quote: Angelia is amazing! She is a great listener and is very perceptive when it comes to knowing what each individual agent needs to be successful. She knows exactly what I need to do to reach my goals and is very explicit when giving me feedback. She pushes me outside of my comfort zone which is what I need to continue to be a Mega Agent.
+    name: Melissa Chambers
+
+  - quote: I’m an Angelia Black Coaching client and it is wonderful. I’m a brand-new agent. I’ve already got 3 transactions started and a lot of I has to do with what I’ve learned in her class and the accountability it gives us. I look at it like a weekly staff meeting from when I was in the corporate world and I had to be accountable for my numbers. She doesn’t beat you up, she encourages you and gives you the tools to be successful.
+    name: Ruth Anne
+
+  - quote: Angelia Black Coaching is not just for new agents! As Realtors, we know that a poor foundation is detrimental to a house. How is your foundation? Haven't poured one yet...perfect timing to get into coaching! Have a few cracks in the foundation, let Angelia be your Ram Jack! Is it a complete teardown? She'll get in the trenches and help you haul away the garbage. I have been in the business for over 10 years, and while I have had some success, my business has always been cyclical. I told myself that was okay because everyone's is. But you know what? It doesn't have to be! When I got to a place in my life where I realized I wanted more, and to reach my goals I could no longer afford for my business to ebb and flow, I hired Angelia. Together, we have started firming up my foundation, which was even less stable than I knew when I began coaching. While I still have a long way to go, Angelia has taken me from E (entrepreneurial) to P (purposeful).
+    name: Lyn Briggs
+
+  - quote: I had been in real estate for about a year when I first met Angelia. I had done well for a first-year agent at 14 transactions. I knew that hiring a coach could only make things better, but when I hired Angelia I was blown out of the water. I went from 14 transactions in my first year to 10 under contract in the first quarter. (Not to mention the upcoming clients that are in the works!) Angelia has helped me reorganize my thinking, put processes in place and gain confidence. She holds me accountable not only professionally, but personally as well. I highly recommend anyone in whatever stage of their real estate profession to hire Angelia. Not only will you grow professionally, but personally as well.
+    name: Melanie Colley
+
+  - quote: Just 2 months in coaching and I have written 8 total contracts and reached a sales volume of $1,856,900. My coach has helped me understand the importance of lead generation, follow up, and how to leverage my business. She has helped me to achieve and exceed all of my goals. I highly recommend productivity coaching and Angelia to anyone who wants to exceed their goals and be pushed beyond their comfort zone. Accountability is the key to success.
+    name: Pam Davis
+
+  # - quote:
+  #   name:
+  #   audio:
+  #
+  # - quote:
+  #   name:
+  #   audio:

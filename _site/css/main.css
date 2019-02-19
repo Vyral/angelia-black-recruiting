@@ -1325,7 +1325,7 @@ html[xmlns] .flexslider .slides {
   min-height: 52px;
   background: #ffffff;
   width: 100%;
-  overflow: hidden; }
+  overflow: visible; }
 
 .navbar-andross .navbar-brand {
   color: #004d9a;
@@ -1405,8 +1405,11 @@ html[xmlns] .flexslider .slides {
   .hero-img {
     height: 300px; }
 
+  #hero {
+    padding-top: 5.5rem !important; }
+
   .nav-logo-small {
-    max-width: 200px;
+    max-width: 125px;
     margin-top: -10px; } }
 @media(max-width: 347px) {
   .navbar {
@@ -1417,7 +1420,11 @@ html[xmlns] .flexslider .slides {
     width: 0;
     overflow: hidden;
     display: none;
-    opacity: 0; } }
+    opacity: 0; }
+
+  .dropbtn {
+    padding: 6px 16px;
+    width: 100%; } }
 .navbar-andross-bottom {
   background: #818285;
   color: #fff;
@@ -2789,3 +2796,36 @@ form select {
   .landing-list li {
     font-size: 16px;
     line-height: 1.2; }
+
+.dropbtn {
+  color: black;
+  background-color: #ffffff;
+  font-weight: 300;
+  font-size: 20px;
+  border: none;
+  text-transform: capitalize;
+  letter-spacing: 0; }
+
+.dropdown {
+  position: relative;
+  display: inline-block; }
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 300px; }
+
+.dropdown-content a {
+  background-color: #eee;
+  padding: 12px;
+  text-decoration: none;
+  display: block;
+  font-size: 20px; }
+
+.dropdown:hover .dropdown-content {
+  display: block; }
+
+.dropdown:hover .dropbtn {
+  background-color: #004d9a;
+  border: 0px solid #004d9a; }
