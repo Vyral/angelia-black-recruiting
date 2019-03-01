@@ -1498,8 +1498,8 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
+  filter: drop-shadow(0px 2px 7px #ffffff); }
 
 .site-title {
   color: #004d9a;
@@ -1954,7 +1954,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 0px 2px 7px #ffffff; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1968,7 +1968,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px #ffffff;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1979,7 +1979,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px #ffffff;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2619,6 +2619,174 @@ form select {
   color: #b40101;
   margin-top: -20px; }
 
+.simple-cta-container {
+  width: 90%;
+  background: rgba(238, 238, 238, 0.9);
+  margin: 0 auto;
+  margin: 2rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 5px solid #004d9a; }
+  .simple-cta-container:hover {
+    background: #fff; }
+
+.simple-side-cta-container {
+  width: 90%;
+  background: rgba(238, 238, 238, 0.9);
+  margin: 0 auto;
+  margin: 2rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 5px solid #004d9a; }
+
+.full-cta {
+  background: #eee;
+  width: 100%;
+  border-bottom: 5px solid #004d9a;
+  text-align: center; }
+
+.full-simple {
+  max-width: 720px;
+  margin: 0 auto;
+  padding-bottom: 2.5rem; }
+
+.simple-cta-photo {
+  width: 100%; }
+
+.secondary-cta-title {
+  font-weight: 700;
+  font-size: 23px;
+  text-transform: uppercase;
+  text-transform: uppercase;
+  color: #004d9a;
+  padding: 1rem;
+  margin-bottom: 0; }
+
+.secondary-subtitle {
+  font-size: 20px;
+  color: #000;
+  padding: 1rem;
+  margin-bottom: 0; }
+
+.simple-cta {
+  display: block;
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 1rem; }
+
+.simple-cta-link {
+  justify-content: center;
+  background: #004d9a;
+  border: 1px solid #004d9a;
+  border-radius: 0px;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #ffffff;
+  margin-left: 1rem;
+  transition: all 0.15s ease-out 0s; }
+  .simple-cta-link p {
+    text-align: center; }
+  .simple-cta-link:hover {
+    background: #fff;
+    color: #004d9a;
+    border: 1px solid #004d9a; }
+  .simple-cta-link:active {
+    box-shadow: 0 0 0 #004d9a;
+    -webkit-transform: translateY(0rem);
+    transform: translateY(0rem); }
+
+.hero-cta {
+  padding-top: 10rem;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
+
+.cta-title {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 70px;
+  padding-top: 2rem;
+  color: #004d9a;
+  -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
+  filter: drop-shadow(0px 2px 7px #ffffff); }
+
+.hero-cta-text {
+  font-weight: 300;
+  font-size: 20px;
+  color: #004d9a;
+  -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
+  filter: drop-shadow(0px 2px 7px #ffffff); }
+
+.border {
+  border-bottom: 5px solid #004d9a; }
+
+@media (max-width: 1285px) {
+  .site-title {
+    font-size: 5rem; }
+
+  .browse-item {
+    width: 90%; }
+
+  .hero-cta {
+    width: 75%; } }
+@media (max-width: 1024px) {
+  .home-logo {
+    max-width: 20rem; }
+
+  .home-broker-logo {
+    width: 50px;
+    padding-top: 2rem; }
+
+  .browse-item {
+    width: 90%;
+    padding: 0.5rem; }
+
+  .browse-container {
+    width: 99%; }
+
+  .browse {
+    padding: 0; } }
+@media (max-width: 800px) {
+  .home-logo {
+    max-width: 20rem;
+    margin-top: 4rem; }
+
+  .site-title {
+    font-size: 5rem; }
+
+  .home-broker-logo {
+    display: none; }
+
+  .cta-title {
+    font-size: 45px;
+    line-height: 50px; }
+
+  .browse-item {
+    margin-top: 1rem; }
+
+  .browse-container {
+    padding-top: 0; } }
+@media (max-width: 600px) {
+  .home-logo {
+    max-width: 15rem;
+    margin-top: 2rem; }
+
+  .site-title {
+    font-size: 3.5rem; }
+
+  .cta {
+    padding: 1rem; } }
+@media (max-width: 400px) {
+  .cta {
+    padding: 0.5rem; } }
+.apply-button {
+  margin: 3rem 0; }
+
+#apply {
+  text-transform: capitalize;
+  font-size: 20px; }
+
 .recruiting {
   text-align: center; }
 
@@ -2673,8 +2841,8 @@ form select {
   max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
+  filter: drop-shadow(0px 2px 7px #ffffff); }
 
 .page-hero-img {
   background-position: center;

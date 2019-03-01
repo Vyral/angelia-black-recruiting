@@ -80,7 +80,7 @@ images:
   logo_width_number: 40
   hero_text: Cornelius Real Estate Video Blog
   hero_background_hex: '#999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /img/background2.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#004d9a'
@@ -96,7 +96,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#ffffff'
 
 buttons:
   button_radius_number: 0
