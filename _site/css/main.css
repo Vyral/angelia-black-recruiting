@@ -2718,6 +2718,12 @@ form select {
   -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
   filter: drop-shadow(0px 2px 7px #ffffff); }
 
+.form-title {
+  font-size: 20px;
+  color: #004d9a;
+  font-weight: bold;
+  text-align: center; }
+
 .border {
   border-bottom: 5px solid #004d9a; }
 
