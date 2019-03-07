@@ -114,6 +114,10 @@
 		box-shadow: 0 0 0 $brand
 		@include transform(translateY(0rem))
 
+.container-fluid
+	padding-left: 0px !important
+	padding-right: 0px !important
+
 .hero-cta
 	padding-top: $nav-height + 5rem
 	text-align: center
@@ -130,12 +134,12 @@
 	@include filter(drop-shadow($header-shadow))
 
 .hero-cta-text
-	font-weight: 300
+	font-weight: bold
 	font-size: 20px
 	color: $brand
 	@include filter(drop-shadow($header-shadow))
 
-.form-title 
+.form-title
 	font-size: 20px
 	color: $brand
 	font-weight: bold
