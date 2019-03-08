@@ -2630,6 +2630,13 @@ form select {
 .newsletter {
   background: #797a7d; }
 
+#wealth-pdf {
+  display: block;
+  margin: 0 auto;
+  padding: 3rem 0; }
+  #wealth-pdf a:hover {
+    cursor: zoom-in; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }
