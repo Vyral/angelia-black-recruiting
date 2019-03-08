@@ -3,7 +3,7 @@ layout: resources
 title: Resources
 permalink: /resources/
 ---
-<a href="/img/6-conversations.pdf"><object width="1000" height="1200" data="/img/6-conversations.pdf" id="wealth-pdf"></object></a>
+<a href="/img/6-conversations.pdf"><object width="1000" height="900" data="/img/6-conversations.pdf" id="wealth-pdf"></object></a>
 
 <a href="/img/goal-workbook.jpg"><img src="/img/goal-workbook.jpg" class="post-image" id="wealth-pdf"></a>
 
