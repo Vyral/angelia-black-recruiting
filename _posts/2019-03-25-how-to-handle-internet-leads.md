@@ -21,7 +21,8 @@ youtube_code: buW6wlarQCs
 
 Many agents approach me to ask whether buying internet leads is a good idea, and the truth is that it depends. **There are two main factors you need to consider before you start buying leads online:**
 
-1. Can you afford it?<br>2. Do you have systems in place to handle the new leads you get?
+1. Can you afford it?
+2. Do you have systems in place to handle the new leads you get?
 
 With these two points in mind, let’s dive a little deeper. Regarding the second factor, in particular, there are three main pieces of information you’ll need to know when handling leads: You need to know when you’ll respond, how you’re going to respond, and how you’re going to follow up after your initial attempts at contact.
 
