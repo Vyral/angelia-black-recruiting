@@ -5,7 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Upcoming Events
     url: https://www.eventbrite.com/o/sellstate-premier-19728565982
-
+  - title: Who We Recommend
+    url: /whowerecommend/
 client:
   name: Angelia Black
   title:
