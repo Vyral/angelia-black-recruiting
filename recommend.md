@@ -1,5 +1,5 @@
 ---
-layout: recommend
+layout: default
 title: Who We Recommend
 permalink: /recommend/
 ---
