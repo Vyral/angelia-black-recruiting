@@ -20,8 +20,10 @@ E: dana.meadows@movement.com
 
 <h1>Virtuance Photography Professionals</h1>
 
-<iframe allowfullscreen="" frameborder="0" height="300" src="https://www.youtube.com/watch?v=c1xTAeEcIBQ&feature=youtu.be" width="502"></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1xTAeEcIBQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
 <p>Virtuance is one of the nation's leading providers of Real Estate Photography. They are the creators of HDReal™, their proprietary imaging system designed specifically to market real estate. To learn more about Virtuance, watch the short video above.</p>
 
 Stephanie Roche
