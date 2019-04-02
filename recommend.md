@@ -20,7 +20,6 @@ E: dana.meadows@movement.com
 
 <h1>Virtuance Photography Professionals</h1>
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c1xTAeEcIBQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
