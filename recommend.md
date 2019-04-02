@@ -13,7 +13,7 @@ video coming soon
 **Dana Meadows**
 Sr. Loan Officer<br>
 The Meadows Team at Movement Mortgage<br>
-P: 704.763.9728<br>
+P: 704-763-9728<br>
 E: dana.meadows@movement.com
 
 <hr>
@@ -28,7 +28,7 @@ E: dana.meadows@movement.com
 **Stephanie Roche**<br>
 Sales & Marketing Consultant- Charlotte<br>
 Customer Service/Scheduling 1-844-443-7325<br>
-Cell (980) 292-5528
+C: 980-292-5528
 
 <hr>
 
@@ -39,9 +39,9 @@ video coming soon
 **Grant Solis**<br>
 Business Development Manager<br>
 Millennial Title Partners<br>
-c. 980.312.0118<br>
-o. 704.936.0550<br>
-e. Grant.Solis@MTPCarolinas.com / Connect@MTPCarolinas.com
+C. 980-312-0118<br>
+O. 704-936-0550<br>
+E. Grant.Solis@MTPCarolinas.com / Connect@MTPCarolinas.com
 
 <hr>
 
@@ -51,6 +51,6 @@ video coming soon
 
 **Todd Freeberg**<br>
 Franchise Owner/Licensed Home Inspector<br>
-P: 704.997.8017<br>
+P: 704-997-8017<br>
 E: todd.freeberg@pillartopost.com<br>
 W: www.pillartopost.com/toddfreeberg
