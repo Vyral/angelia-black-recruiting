@@ -20,7 +20,7 @@ E: dana.meadows@movement.com
 
 <h1>Virtuance Photography Professionals</h1>
 
-https://www.youtube.com/watch?v=c1xTAeEcIBQ&feature=youtu.be
+<iframe allowfullscreen="" frameborder="0" height="300" src="https://www.youtube.com/watch?v=c1xTAeEcIBQ&feature=youtu.be" width="502"></iframe>
 
 <p>Virtuance is one of the nation's leading providers of Real Estate Photography. They are the creators of HDReal™, their proprietary imaging system designed specifically to market real estate. To learn more about Virtuance, watch the short video above.</p>
 
