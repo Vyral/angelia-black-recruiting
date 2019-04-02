@@ -1,6 +1,6 @@
 ---
 layout: recommend
-title: Who We Reccomend
+title: Who We Recommend
 permalink: /recommend/
 ---
 
