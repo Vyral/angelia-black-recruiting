@@ -1,8 +1,14 @@
 ---
-layout: page-name
+layout: who-we-recommend
 title: Who We Reccomend
 permalink: /who-we-recommend/
 ---
+
+<br>
+<br>
+<h1>The Meadows Team at Movement Mortgage</h1>
+
+Waiting on video
 
 Dana Meadows 
 Sr. Loan Officer
@@ -10,12 +16,13 @@ The Meadows Team at Movement Mortgage
 P: 704.763.9728
 E: dana.meadows@movement.com
 
+<hr>
+
 <h1>Virtuance Photography Professionals</h1>
 
-Link to video: 
 https://www.youtube.com/watch?v=c1xTAeEcIBQ&feature=youtu.be
 
-Virtuance is one of the nation's leading providers of Real Estate Photography. They are the creators of HDReal™, their proprietary imaging system designed specifically to market real estate. To learn more about Virtuance, watch the short video above. 
+<p>Virtuance is one of the nation's leading providers of Real Estate Photography. They are the creators of HDReal™, their proprietary imaging system designed specifically to market real estate. To learn more about Virtuance, watch the short video above.</p>
 
 Contact Info:
 Stephanie Roche
@@ -23,11 +30,11 @@ Sales & Marketing Consultant- Charlotte
 Customer Service/Scheduling (1-844-443-7325)
 Cell (980)292-5528
 
-Third Spot: Millennial Title Partners
+<hr>
 
-(Waiting for video.)
+<h1>Millennial Title Partners</h1>
 
-Contact Info: 
+Waiting for video
 
 Grant Solis
 Business Development Manager
@@ -36,9 +43,11 @@ c. 980.312.0118
 o. 704.936.0550
 e. Grant.Solis@MTPCarolinas.com /  Connect@MTPCarolinas.com
 
-Fourth Spot: Pillar To Post
+<hr>
 
-(Waiting on video.)
+<h1>Pillar To Post</h1>
+
+Waiting on video
 
 Contact Info:
 Todd Freeberg
