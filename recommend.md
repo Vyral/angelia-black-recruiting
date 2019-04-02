@@ -8,7 +8,7 @@ permalink: /recommend/
 <br>
 <h1>The Meadows Team at Movement Mortgage</h1>
 
-Waiting on video
+video coming soon
 
 **Dana Meadows**
 Sr. Loan Officer<br>
@@ -34,7 +34,7 @@ Cell (980) 292-5528
 
 <h1>Millennial Title Partners</h1>
 
-Waiting for video
+video coming soon
 
 **Grant Solis**<br>
 Business Development Manager<br>
@@ -47,7 +47,7 @@ e. Grant.Solis@MTPCarolinas.com / Connect@MTPCarolinas.com
 
 <h1>Pillar To Post</h1>
 
-Waiting on video
+video coming soon
 
 **Todd Freeberg**<br>
 Franchise Owner/Licensed Home Inspector<br>
