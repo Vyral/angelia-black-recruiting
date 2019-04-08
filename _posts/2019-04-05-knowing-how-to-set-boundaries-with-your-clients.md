@@ -31,7 +31,9 @@ How can we accomplish that while still setting up and maintaining boundaries?&nb
 
 During a buyer consultation, for example, you’ll want to ask a series of questions to determine what your client’s preferred method of communication is. **In this order, here are the questions to ask:&nbsp;**
 
-What method is the best way to get ahold of you—by call, text, or email?&nbsp;<br>What time do you arrive at work each day?&nbsp;<br>When is your workday officially over?&nbsp;
+* What method is the best way to get ahold of you—by call, text, or email?&nbsp;
+* What time do you arrive at work each day?&nbsp;
+* When is your workday officially over?&nbsp;
 
 By then sharing your hours of operation, you’re, in effect, setting the boundaries for the relationship with regard to communication and time.&nbsp;
 
