@@ -34,14 +34,16 @@ C: 980-292-5528
 
 <h1>Millennial Title Partners</h1>
 
-video coming soon
+<iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**Grant Solis**<br>
+<br>
+<p>Redefining the standard. Going over and beyond for our partners by building solid beneficial relationships to help both sides grow.</p>
+
+**Tom Bramhall**<br>
 Business Development Manager<br>
 Millennial Title Partners<br>
-C. 980-312-0118<br>
-O. 704-936-0550<br>
-E. Grant.Solis@MTPCarolinas.com / Connect@MTPCarolinas.com
+P. 980-722-7454<br>
+E. tom@mtpcarolinas.com
 
 <hr>
 
