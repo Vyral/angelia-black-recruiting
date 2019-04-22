@@ -8,8 +8,6 @@ permalink: /recommend/
 <br>
 <h1>The Meadows Team at Movement Mortgage</h1>
 
-video coming soon
-
 **Dana Meadows**
 Sr. Loan Officer<br>
 The Meadows Team at Movement Mortgage<br>
@@ -34,9 +32,7 @@ C: 980-292-5528
 
 <h1>Millennial Title Partners</h1>
 
-video coming soon 
-
-<iframe width="560" height="315" src="https://www.dropbox.com/s/1zascl94bw7rvqb/Realtors.mp4?dl=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0o4aiHW7Qjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
 <p>Redefining the standard. Going over and beyond for our partners by building solid beneficial relationships to help both sides grow.</p>
@@ -51,7 +47,8 @@ E. tom@mtpcarolinas.com
 
 <h1>Pillar To Post</h1>
 
-video coming soon
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oj7geCrAMnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 **Todd Freeberg**<br>
 Franchise Owner/Licensed Home Inspector<br>
