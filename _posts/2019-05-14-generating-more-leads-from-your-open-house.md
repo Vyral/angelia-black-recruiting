@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generating More Leads From Your Open House
-date: 2019-05-14 16:04:45
+date: 2019-05-14 16:04:00
 tags:
   - Lead Generation
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: qMcaGlwkbpA
 
 {% include youtube.html %}
 
-For sellers, the goal of an open house is to garner appeal and generate leads. Here are 5 tips on how to make your own open house a hit.&nbsp;
+For sellers, the goal of an open house is to garner appeal and generate leads. Here are five tips on how to make your own open house a hit.&nbsp;
 
 **1\. Create a Facebook Live video of the open house.** Taking Facebook Live viewers on a virtual walk-through will give you the opportunity to answer questions and gauge the reception to your open house. Then, you can save that Facebook Live recording and boost it on your business page to get more eyes on your property.
 
