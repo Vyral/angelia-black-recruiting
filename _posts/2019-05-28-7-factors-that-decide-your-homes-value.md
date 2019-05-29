@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Factors That Decide Your Home’s Value
-date: 2019-05-28 20:50:28
+date: 2019-05-28 20:50:00
 tags:
   - Listing Presentation
 excerpt: >-
@@ -25,7 +25,7 @@ There are certain deciding factors when it comes to your home’s value. Today w
 
 **1\. Neighborhood comparables.** In their assessment of your home’s value, an appraiser will rely on comparable prices of homes in your neighborhood. If a home down the street sold for x amount of money a year ago, don’t expect that to be factored into the appraisal; your appraiser will look at the most recent comps available.&nbsp;
 
-**2\. Location.** The local school district, employment opportunities, entertainment or recreational amenities, etc. all figure into the viability of your home’s location and, therefore, its value.&nbsp;
+**2\. Location.** The local school district, employment opportunities, entertainment or recreational amenities, etc., all figure into the viability of your home’s location and, therefore, its value.&nbsp;
 
 **3\. Size and usable space.** Whether or not your home has a garage, the number of bedrooms and bathrooms it has, and the size of your family room are all examples of the usability of your home’s space.
 
