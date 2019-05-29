@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/homes-value-youtube.jpg
-youtube_code: F859KK4O7nI
+youtube_code: EnUB2vNupL4
 ---
 
 {% include youtube.html %}
