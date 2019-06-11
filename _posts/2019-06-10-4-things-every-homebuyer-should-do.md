@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Things Every Homebuyer Should Do
-date: 2019-06-10 20:16:39
+date: 2019-06-10 20:16:00
 tags:
   - Buyer Prospects
 excerpt: >-
@@ -18,11 +18,11 @@ youtube_code: GM6lqXh5e3A
 
 {% include youtube.html %}
 
-I get asked all the time what buyers need to do to prepare for their home purchase. **Here are my top tips:**
+Buyers ask me all the time what they need to do to prepare for their home purchase. **Here are my top tips:**
 
 **1\. Know your credit score.** Your score will affect the type of loan program you get.
 
-**2\. Don’t open up new lines of credit.** While you’re out an about looking for a home, do not open any new credit cards, buy a car, furniture, or anything else with credit. These purchases will affect your score and what you can qualify for in a home. Wait until you’ve already bought the home to make those purchases.
+**2\. Don’t open up new lines of credit.** While you’re out and about looking for a home, do not open any new credit cards, buy a car, furniture, or anything else with credit. These purchases will affect your score and what you can qualify for in a home. Wait until you’ve already bought the home to make those purchases.
 
 {% include pullquote.html %}
 
