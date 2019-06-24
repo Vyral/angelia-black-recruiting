@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips for Handling Multiple Offers
-date: 2019-06-24 17:31:44
+date: 2019-06-24 17:31:00
 tags:
   - Transaction Management
 excerpt: >-
