@@ -31,7 +31,7 @@ There are five essential steps to follow when you’re trying to navigate a mult
 
 **3\. Find out more about the buyers.** Find out what they like about your house, make sure their offer on your home isn’t contingent on them selling their own house, and determine why they want your house in particular. This way, you can learn which buyer might be the easiest to work with. Many buyers will send you letters and videos to appeal to you emotionally, which can help you understand what motivates them to buy your home.&nbsp;
 
-**4\. Speak with the buyers’ lenders.** This will tell you if your potential buyers are just pre-qualified, or if they’re actually pre-approved. You can also talk to them about their timing for the loan—is the lender local with local processing areas, or are they out of state? All this is very important information to have when deciding which offer to choose, especially if all the other terms are very close. Who a lender is can often make or break a deal.
+**4\. Speak with the buyers’ lenders.** This will tell you if your potential buyers are just pre-qualified, or if they’re actually pre-approved. You can also talk to them about their timing for the loan—is the lender local with local processing areas or are they out of state? All of this is very important information to have when deciding which offer to choose, especially if all the other terms are very close. Who a lender is can often make or break a deal.
 
 **5\. Thank everyone for their offers after making your selection.** Additionally, keep a couple of backup offers on hand—something could go wrong in the deal, and if you can turn a backup offer into a contract, you’ve got an ace in the hole.
 
