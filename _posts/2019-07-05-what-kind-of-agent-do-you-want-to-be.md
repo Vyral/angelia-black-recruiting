@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Kind of Agent Do You Want to Be?
-date: 2019-07-05 15:34:28
+date: 2019-07-05 15:34:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -16,12 +16,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/what-kind-of-agent-youtube.jpg
-youtube_code: yRTi7-HTxcE
+youtube_code: C8bA0aua6H0
 ---
 
 {% include youtube.html %}
 
-When it comes to determining if you want to be a buyer’s agent, a listing agent, or both, **I recommend that you take the DiSC Profile Test, which allows you to see what would best suit you according to your traits.** DiSC, of course, is an acronym that stands for “Dominant, Influential, Compliant, and Steady.”
+When it comes to determining whether you want to be a buyer’s agent, a listing agent, or both, **I recommend that you take the DiSC Profile Test, which allows you to see what would best suit you according to your traits.** DiSC, of course, is an acronym that stands for “Dominant, Influential, Compliant, and Steady.”
 
 **If you’re leaning more towards being a buyer’s agent, you would need to score high in the “i” category.** A great buyer’s agent is someone who is influential, social, and who likes to build relationships. They’ll need to be enthusiastic about going out to view homes, be able to talk people through the pros and cons of each listing, and really want to find the right home for their buyers.
 
