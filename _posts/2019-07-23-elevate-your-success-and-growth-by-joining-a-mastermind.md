@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elevate Your Success and Growth By Joining a Mastermind
-date: 2019-07-23 14:24:01
+date: 2019-07-23 14:24:00
 tags:
   - Transaction Management
   - Lead Conversion
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mastermind-youtube.jpg
-youtube_code: 3PUZ-kb6Ku4
+youtube_code: '-7SM2WmmJLc'
 ---
 
 {% include youtube.html %}
