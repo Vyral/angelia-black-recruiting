@@ -30,7 +30,7 @@ Another benefit of being a part of a mastermind is the **collaboration** element
 
 {% include pullquote.html %}
 
-It goes without saying that a mastermind group is a great source of **networking** and it creates opportunities for outside introductions as well, so you can continue to strengthen your reputation as a leading expert in your market.&nbsp;
+A mastermind group is a great source of **networking** and it creates opportunities for outside introductions as well, so you can continue to strengthen your reputation as a leading expert in your market.&nbsp;
 
 Furthermore, a mastermind group will **not only promote growth in your contacts and your business, but in you as an individual.** If you’re wanting to take your business to a new level, being a member of a mastermind group will open your eyes to new systems, strategies, and people.&nbsp;
 
