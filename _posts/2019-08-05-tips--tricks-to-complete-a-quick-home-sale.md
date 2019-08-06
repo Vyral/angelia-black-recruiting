@@ -31,6 +31,6 @@ Give buyers a warm welcome as they walk through your home by playing soothing mu
 
 **3\. Make good use of your floor space.** Be careful not to leave miscellaneous items lying around everywhere. As a bonus tip, be sure that your closets’ shelves and floor are clean and free of clutter when buyers open them to take a peek. &nbsp; &nbsp; &nbsp;
 
-**4\. Embrace your architectural design.** If there’s an odd space in your home, like an alcove under your staircase, showcase it as a reading nook. Make every nook and cranny in your home appear as though it has a purpose. &nbsp; &nbsp; &nbsp;&nbsp;
+**4\. Embrace your architectural design.** If there’s an odd space in your home, like an alcove under your staircase, showcase it as a reading nook. Make every nook and cranny in your home appear as though it has a purpose.
 
 If you have any further questions about what you can do to get your home ready for the market, please reach out to me. I look forward to hearing from you\!
