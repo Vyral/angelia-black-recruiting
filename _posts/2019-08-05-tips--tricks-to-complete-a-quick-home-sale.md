@@ -13,7 +13,7 @@ pullquote: Try appealing to each of the buyer’s five senses.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/home-selling-tips-youtube-2.jpg
 youtube_code: uwlu8tJaAMs
 ---
 
