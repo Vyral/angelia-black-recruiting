@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building Your Real Estate Career
-date: 2019-09-03 20:07:15
+date: 2019-09-03 20:07:00
 tags:
   - Lead Generation
   - Transaction Management
@@ -26,7 +26,7 @@ youtube_code: fuauhGVaeMI
 
 Are you thinking of becoming a real estate broker? Here are the steps you must take to build your career from the ground floor.&nbsp;
 
-**First, you need to go to real estate school,** and there are a couple options you can pursue. A lot of companies out there specialize in real estate, and you can take classes at night, during the day, or on weekends. They also offer accelerated sessions that allow you to complete your education in as little as five or six weeks. Additionally, several community colleges in the area have semester loan courses specifically dedicated to training people to become brokers.&nbsp;
+**First, you need to go to real estate school,** and there are a couple of options you can pursue. A lot of companies out there specialize in real estate, and you can take classes at night, during the day, or on weekends. They also offer accelerated sessions that allow you to complete your education in as little as five or six weeks. Additionally, several community colleges in the area have semester loan courses specifically dedicated to training people to become brokers.&nbsp;
 
 Second, you must pass two real estate tests—the first given by your school and the second given by the state of North Carolina.
 
