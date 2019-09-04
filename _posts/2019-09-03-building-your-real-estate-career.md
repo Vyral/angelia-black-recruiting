@@ -40,7 +40,7 @@ It’s also important to ask about the broker in charge. Are they a competing br
 
 Next, **develop a business plan.** Once you’ve picked your preferred brokerage, sit down with the broker in charge and discuss what it will take for you to be successful in terms of lead generation. At this time, you also need to create a recognizable brand for yourself. Think about logos and colors and secure a domain name for your website and an email address that matches it. Your brand will stay with you throughout your career, so think about what you want your professional image to be.&nbsp;
 
-The next step is to **think about how to build your business relationships.** Call every contact in your phone to let them know you’re a real estate broker and that you’re excited and ready to help them. You’d be surprised at how many people do this, but it’s the very first thing you should do. After all, being a successful real estate broker is based on building relationships, so start with the people you know and who know you.&nbsp;
+The next step is to **think about how to build your business relationships.** Call every contact in your phone to let them know you’re a real estate broker and that you’re excited and ready to help them. You’d be surprised at how many people don't do this, but it’s the very first thing you should do. After all, being a successful real estate broker is based on building relationships, so start with the people you know and who know you.&nbsp;
 
 Finally, just be ready. Opportunity can come at any time—you could be standing in line at the grocery store, attending a soccer game, etc. It doesn’t matter; just be ready. Don’t be nervous about what you don’t know. Lean on your firm for support and have a successful transaction.&nbsp;
 
