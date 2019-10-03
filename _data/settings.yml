@@ -7,6 +7,10 @@ custom_links:
     url: https://www.eventbrite.com/o/sellstate-premier-19728565982
   - title: Who We Recommend
     url: /recommend/
+  - title: Homes search
+    url: https://www.hopepropertygroup.com/
+  - title: Home Value
+    url: https://www.hopepropertygroup.com/search/comparablehomes.aspx  
 client:
   name: Angelia Black
   title:
