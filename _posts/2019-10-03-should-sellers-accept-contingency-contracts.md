@@ -21,6 +21,8 @@ youtube_code: UC5OZH0Foq0
 
 {% include youtube.html %}
 
+**[Search All Homes on the MLS Here](https://www.hopepropertygroup.com/){: target="_blank"}<br>[Receive a FREE Home Value Report](https://www.hopepropertygroup.com/search/comparablehomes.aspx){: target="_blank"}**
+
 Contingency contracts have changed a lot over the years. They used to have what was called a ‘kick out clause,’ meaning if you submitted an offer that was contingent on your house selling, the seller was also free to continue marketing their property. If they came back to your offer, you would have 24 to 48 hours to determine if you could purchase their property.
 
 **All of that has changed over the last several years.** Now, if the seller accepts a contingency offer, that means they’re under contract. You’re not allowed to continue to market your home, and you remain under contract until the buyer is able to close on the house they need to sell.
