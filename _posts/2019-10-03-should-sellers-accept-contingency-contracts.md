@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should Sellers Accept Contingency Contracts?
-date: 2019-10-03 22:53:13
+date: 2019-10-03 22:53:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -29,7 +29,7 @@ Contingency contracts have changed a lot over the years. They used to have what 
 
 That’s a big difference and should be a determining factor when deciding to accept a contingent offer. If, for example, I had a seller whose house has been on the market for a week and the showings have gone well, **I would advise them not to accept a contingency contract—why hold up your house for someone whose house isn’t even on the market?&nbsp;**
 
-The same is true for the seller whose house has been on the market for longer than the average for the area. A unique feature, the timing, or other factors could be contributing to its inability to sell. At that point, if a buyer wants to offer the seller a contingency contract, then accepting a contingency contract might be a viable option, as long as the buyer’s current home is in an area where it’s likely to sell quickly.&nbsp;
+The same is true for the seller whose house has been on the market longer than the average for the area. A unique feature, the timing, or other factors could be contributing to its inability to sell. At that point, if a buyer wants to offer the seller a contingency contract, then accepting a contingency contract might be a viable option, as long as the buyer’s current home is in an area where it’s likely to sell quickly.&nbsp;
 
 **Whether or not you accept a contingency offer is ultimately dependent on the marketability of your house, how long it’s been on the market, and how willing you are to be tied down by the buyer’s house that hasn’t yet sold.**
 
