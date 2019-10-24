@@ -12,7 +12,7 @@ pullquote: We want to help agents make more money so they can keep more money.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/why-i-started-sell-state-youtube-1.jpg
+youtube_alternate_image: /uploads/why-i-started-sell-state-youtube-1-1.jpg
 youtube_code: LHwCf1O1LcU
 ---
 
