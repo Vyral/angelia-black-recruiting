@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/prep-for-winter-youtube.jpg
 youtube_code: 2yY5CUE6TmY
 ---
 
